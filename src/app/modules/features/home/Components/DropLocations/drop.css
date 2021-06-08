@@ -1,0 +1,27 @@
+.font-80p
+{ 
+     font-size: 80%;
+}
+.font-70p
+{ 
+     font-size: 70%;
+}
+.font-75p{
+    font-size: 75%; 
+}
+.font-65p
+{ 
+     font-size: 65%;
+}
+.font-60p
+{ 
+     font-size: 60%;
+}
+
+.stopBtn{
+     margin:auto;
+     display :bloack;
+     width:60%;
+     height:150%
+    
+  }

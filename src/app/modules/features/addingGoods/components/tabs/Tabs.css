@@ -1,0 +1,20 @@
+.goodsBtn{
+margin:auto;
+display :bloack;
+width:50%;
+height:140%
+}
+.goodsText{
+    margin:auto;
+    display :bloack;
+    width:90%;
+    font-size: 20%;
+ }
+ .MuiTab-wrapper {
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    font-size: x-small;
+}

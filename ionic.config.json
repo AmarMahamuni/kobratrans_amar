@@ -1,0 +1,7 @@
+{
+  "name": "KobraTransport",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

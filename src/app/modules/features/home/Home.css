@@ -1,0 +1,100 @@
+.MuiAccordionDetails-root {
+    display: flex;
+    padding: 8px 16px 16px;
+    border-radius: 0px 0px 15px 15px;
+    box-shadow: 107px;
+    box-shadow: 1.5px 1.5px 0.5px grey ;
+   
+
+}
+.MuiAccordionSummary-root {
+    display: flex;
+    box-shadow: black;
+    padding: 0px 16px ;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px grey;
+    min-width: 2px;
+    border-top-right-radius: 10px;
+    transition: min-height 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.center {
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+.MuiPickersBasePicker-pickerView {
+    display: flex;
+    /* max-width: 167px; */
+    /* min-width: 310px; */
+    min-height: 195px;
+    overflow-x: hidden;
+    flex-direction: column;
+    justify-content: center;
+}
+.footerAdd{
+   
+        position: fixed;
+        background: white;
+        bottom: 0px;
+        width: 100%;
+        left: 0px;
+        z-index: 1000;
+    
+}
+.stopNumBtns{
+    width:5px;
+    height: 20px;
+    color: gray;
+   
+}
+.pickupCard{ 
+    padding:6px;
+    border-radius: 10px;
+    margin-top: auto;
+    width:90%;
+    background-color: grey;
+    color: honeydew;
+    margin-bottom: auto;
+    
+}
+.font-80p
+{ 
+     font-size: 80%;
+}
+.font-70p
+{ 
+     font-size: 70%;
+}
+.font-75p{
+    font-size: 75%; 
+}
+.stopNoBtn{
+         width:50%;
+         height :40%;
+         border-radius: 100%;
+}
+.font-65p
+{ 
+     font-size: 65%;
+}
+.font-60p
+{ 
+     font-size: 60%;
+}
+
+.stopBtn{
+     margin:auto;
+     display :bloack;
+     width:70%;
+     height:150%
+    
+  }
+  .IonContent{
+      margin-bottom: 50%;
+  }
+  .mb-15p {
+   
+    margin-bottom: 15%;
+}
+.ml-5{
+    margin-left: 10px;
+}

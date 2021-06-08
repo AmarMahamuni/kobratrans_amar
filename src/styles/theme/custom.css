@@ -1,0 +1,72 @@
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+    --overflow: hidden;
+  }
+  /* For Firefox and IE */
+  .hide-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    --overflow: hidden;
+  }
+  .d-block{
+    display: block;
+  }
+  .bgImg{
+    background-image: url('../../app/assets//icons/car.svg');
+    height: 100%;
+    filter: brightness(0.5);
+}
+  .fotter{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    left: 0px;
+}
+  .vh-7{
+    height: 7vh;
+  }
+  .center-img{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+  .center-img-align{
+    position: absolute;
+    top: 10vh;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+  .p-0{
+    padding: 0px;
+  }
+  .p-20{
+    padding: 20px;
+  }
+  .pl-5{
+    padding-left: 5px;
+  }
+  .m-auto{
+    margin: auto;
+  }
+  .mt-5{
+    margin-top: 5px;
+  }
+  .ml-15{
+    margin-left: 15px;
+  }
+  .ml--5{
+    margin-left: 5%;
+  }
+  .font-25{
+    font-size: 25px;
+  }
+  .font-16{
+    font-size: 16px;
+  }
+  .bold{
+    font-weight: bold;
+  }

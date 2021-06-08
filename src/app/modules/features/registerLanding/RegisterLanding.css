@@ -1,0 +1,5 @@
+.bgImg{
+    background-image: url('../../../assets/icons/car.svg');
+    height: 100%;
+    filter: brightness(0.5);
+}
